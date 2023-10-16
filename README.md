@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - sandip Kumar Mishra
+Author - sandip Kumar Mishra (Apna College)
